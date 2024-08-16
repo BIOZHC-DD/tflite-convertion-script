@@ -1,0 +1,1 @@
+-> Must have tensorflow and python3 installed in your system and the orginal .tf file that u want to convert should be in the same root directory
